@@ -1,4 +1,4 @@
-## Hello Guys 🙌
+##  👩🏻‍💻 Ghazaal Mahdipour
 Frontend Developer who enjoys buildings clean, scalable and practical solutions. 🎯
 
 Focused on writing maintainable code and creating tools that improve developer experience. 🔐
